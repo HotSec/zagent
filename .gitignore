@@ -21,6 +21,5 @@
 # Go workspace file
 go.work
 
-zagent
 logs/*
 build/*
